@@ -1,0 +1,119 @@
+{
+    "retail_clients": [
+        {
+            "name": "Sarah Thompson",
+            "age": 35,
+            "gender": "Female",
+            "job": "High School Teacher",
+            "wealth": "$75,000/year",
+            "nationality": "American",
+            "account_type": "Premium Checking",
+            "banking_needs": [
+                "Mortgage",
+                "Retirement Planning",
+                "College Savings"
+            ],
+            "risk_profile": "Conservative",
+            "relationship_length": "5 years",
+            "preferred_contact": "Email",
+            "products": [
+                "Checking Account",
+                "Savings Account",
+                "30-year Mortgage",
+                "Credit Card"
+            ]
+        },
+        {
+            "name": "Michael Chen",
+            "age": 42,
+            "gender": "Male",
+            "job": "Small Business Owner",
+            "wealth": "$120,000/year",
+            "nationality": "Canadian",
+            "account_type": "Business Select",
+            "banking_needs": [
+                "Business Loans",
+                "Merchant Services",
+                "Investment Planning"
+            ],
+            "risk_profile": "Moderate",
+            "relationship_length": "8 years",
+            "preferred_contact": "Phone",
+            "products": [
+                "Business Checking",
+                "Personal Checking",
+                "Business Credit Card",
+                "Line of Credit"
+            ]
+        },
+        {
+            "name": "Emily Rodriguez",
+            "age": 29,
+            "gender": "Female",
+            "job": "Software Developer",
+            "wealth": "$95,000/year",
+            "nationality": "Mexican-American",
+            "account_type": "Digital Plus",
+            "banking_needs": [
+                "Investment Planning",
+                "First-time Home Buying",
+                "Tech Banking"
+            ],
+            "risk_profile": "Aggressive",
+            "relationship_length": "3 years",
+            "preferred_contact": "Mobile App",
+            "products": [
+                "Digital Checking",
+                "Investment Account",
+                "High-yield Savings",
+                "Travel Rewards Credit Card"
+            ]
+        },
+        {
+            "name": "David Wilson",
+            "age": 48,
+            "gender": "Male",
+            "job": "Construction Manager",
+            "wealth": "$85,000/year",
+            "nationality": "British",
+            "account_type": "Family Banking",
+            "banking_needs": [
+                "Family Savings",
+                "Education Planning",
+                "Home Equity"
+            ],
+            "risk_profile": "Moderate-Conservative",
+            "relationship_length": "12 years",
+            "preferred_contact": "Branch Visit",
+            "products": [
+                "Joint Checking",
+                "Family Savings",
+                "Home Equity Line",
+                "Auto Loan"
+            ]
+        },
+        {
+            "name": "Lisa Patel",
+            "age": 31,
+            "gender": "Female",
+            "job": "Healthcare Administrator",
+            "wealth": "$82,000/year",
+            "nationality": "Indian-American",
+            "account_type": "Professional Banking",
+            "banking_needs": [
+                "Student Loan Refinancing",
+                "Investment Growth",
+                "Wedding Planning"
+            ],
+            "risk_profile": "Moderate",
+            "relationship_length": "4 years",
+            "preferred_contact": "Email",
+            "products": [
+                "Professional Checking",
+                "Student Loan Refinance",
+                "Investment Account",
+                "Savings Account"
+            ]
+        }
+    ]
+}
